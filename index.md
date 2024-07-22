@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral research at the Dept. of Pediatrics, UC San Diego.
+I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego.
 
 ## Research Interests
 
