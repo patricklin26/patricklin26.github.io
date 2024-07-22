@@ -9,7 +9,7 @@ I am a postdoctoral research at the Dept. of Pediatrics, UC San Diego.
 ## Research Interests
 
 - **Medical genomics:** immune checkpoint receptor signaling, innate immunity
-- **Evolutionary genomics:** molecular phenotypic evolution 
+- **Evolutionary genomics:** gene regulation, microRNA, duplicate gene
 
 ## News
 
