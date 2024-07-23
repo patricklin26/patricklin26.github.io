@@ -4,12 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego.
+I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI is [Dr. Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti).
 
 ## Research Interests
 
-- **Medical genomics:** immune checkpoint receptor signaling, innate immunity
-- **Evolutionary genomics:** gene regulation, microRNA, duplicate gene
+- **Medical genomics:**  
+  immune checkpoint receptor signaling  
+  innate immunity  
+- **Evolutionary genomics:**    
+  evolution of gene expression through microRNA targeing  
+  genetic incompatibiliy - disease associated amino acid residues in one species could be the wild-type in another species.  
 
 ## News
 
