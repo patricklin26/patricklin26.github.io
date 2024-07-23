@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI is [Dr. Eniko Sajti](https://profiles.ucsd.edu/eniko.sajti).
+I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI is [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html).
 
 ## Research Interests
 
