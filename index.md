@@ -12,8 +12,8 @@ I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI i
   immune checkpoint receptor signaling  
   innate immunity  
 - **Evolutionary genomics:**    
-  evolution of gene expression through microRNA targeing  
-  genetic incompatibiliy - disease associated amino acid residues in one species could be the wild-type in another species.  
+  the contribution by microRNA to gene expression evolution.  
+  genetic incompatibiliy - disease-associated amino acid residues in one species could be the wild-type in another species.  
 
 ## News
 
