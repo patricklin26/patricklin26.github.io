@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI is [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html).
+I am a postdoctoral researcher at the Dept. of Pediatrics, UC San Diego. My PI is [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html). Before I came to UCSD, I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun Yet-Sen University under the supervision of Dr. Chung-I Wu (2021). I received my bachelor’s degree in the School of Biomedical Engineering at Southern Medical University (2010). Both two universities are located in Guangzhou.
 
 ## Research Interests
 
