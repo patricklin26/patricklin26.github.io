@@ -14,15 +14,17 @@ I was born and raised in a Teochew family. This is the [Wiki](https://en.wikiped
   immune checkpoint receptor signaling  
   innate immunity  
 - **Evolutionary genomics:**    
-  the contribution by microRNA to gene expression evolution.  
+  the role of microRNA in gene expression evolution.  
   genetic incompatibiliy - disease-associated amino acid residues in one species could be the wild-type in another species.  
 
-## News
+## Timeline
 
 - **[Jul. 2024]**
 - **[Sep. 2021]**
 - **[Jun. 2021]**
 - **[Jul. 2014]**
+- **[Jun. 2010]**
+- **[Sep. 2006]**
 
 
 {% include_relative _includes/publications.md %}
