@@ -1,4 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Reading</h2>
+[Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)
+
 
 <div class="publications">
 <ol class="bibliography">
