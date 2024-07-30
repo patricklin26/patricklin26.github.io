@@ -18,7 +18,7 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
   innate immunity  
 - **Evolutionary genomics:**    
   the role of microRNA in gene expression evolution.  
-  genetic incompatibiliy - disease-associated amino acid residues in one species could be the wild-type in another species.  
+  genetic incompatibiliy - for example, disease-associated amino acid residues in one species could be the wild-type in another species.  
 
 ## Timeline
 
