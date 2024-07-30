@@ -20,6 +20,17 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
   the role of microRNA in gene expression evolution.  
   genetic incompatibiliy - for example, disease-associated amino acid residues in one species could be the wild-type in another species.  
 
+## Reading
+
+
+
+- Jerry Coyne's blog  
+[Old travels](https://whyevolutionistrue.com/2020/05/04/old-travels/)  
+[How I wangled myself into Harvard in one day](https://whyevolutionistrue.com/2020/05/08/more-autobiography-how-i-wangled-myself-into-harvard-in-one-day/)
+
+- Other essays  
+  [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)  
+
 ## Timeline
 
 - **[Jul. 2024]**
@@ -30,6 +41,4 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
 - **[Sep. 2006]**
 
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
