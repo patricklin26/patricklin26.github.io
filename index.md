@@ -26,7 +26,8 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
 
 - Jerry Coyne's blog  
 [Old travels](https://whyevolutionistrue.com/2020/05/04/old-travels/)  
-[How I wangled myself into Harvard in one day](https://whyevolutionistrue.com/2020/05/08/more-autobiography-how-i-wangled-myself-into-harvard-in-one-day/)
+[How I wangled myself into Harvard in one day](https://whyevolutionistrue.com/2020/05/08/more-autobiography-how-i-wangled-myself-into-harvard-in-one-day/)  
+[A retrospective look at a paper: Coyne and Orr (1989)](https://whyevolutionistrue.com/2021/04/04/a-retrospective-look-at-a-paper-coyne-and-orr-1989/)  
 
 - Other essays  
   [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)  
