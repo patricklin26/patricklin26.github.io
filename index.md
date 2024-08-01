@@ -33,5 +33,7 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
   [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)  
 
 
+## Publications
 
+[My Google Scholar page](https://scholar.google.com/citations?user=7oP6UXEAAAAJ&hl=en)
 
