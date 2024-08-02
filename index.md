@@ -29,8 +29,11 @@ I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia
 [How I wangled myself into Harvard in one day](https://whyevolutionistrue.com/2020/05/08/more-autobiography-how-i-wangled-myself-into-harvard-in-one-day/)  
 [A retrospective look at a paper: Coyne and Orr (1989)](https://whyevolutionistrue.com/2021/04/04/a-retrospective-look-at-a-paper-coyne-and-orr-1989/)  
 
-- Other essays  
+- Other essays/articles  
   [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)  
+  [The genetic theory of adaptation: a brief history - a 2005 review by Allen Orr](https://www.nature.com/articles/nrg1523)  
+  [Evolution and regulation of animal sex chromosomes](https://www.nature.com/articles/s41576-024-00757-3)  
+  
 
 
 ## Publications
