@@ -6,9 +6,9 @@ layout: homepage
 
 I am a postdoctoral researcher in the lab of [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html) at the Dept. of Pediatrics, UC San Diego. Before joining the Sajti lab, I was a postdoctoral researcher in the Department of Bioengineering at UCSD from September 2021 to June 2024.
 
-I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun Yat-Sen University under the supervision of Dr. Chung-I Wu (2021). I received my bachelor’s degree in the School of Biomedical Engineering at Southern Medical University (2010). Both universities are located in Guangzhou.
+I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun Yat-Sen University under the supervision of Dr. Chung-I Wu (July 2014 - June 2021). I received my bachelor’s degree in the School of Biomedical Engineering at Southern Medical University (Sep 2006 - June 2010). Both universities are located in Guangzhou.
 
-I was born and raised in a Teochew family. Here is a [Wiki](https://en.wikipedia.org/wiki/Teochew_people) about Teochew people (潮州人/潮汕人) and our culture.
+I was born and raised in a Teochew family (data not shown). Here is a [Wiki](https://en.wikipedia.org/wiki/Teochew_people) about Teochew people (潮州人/潮汕人) and our culture.
 
 ## Research Interests
 
