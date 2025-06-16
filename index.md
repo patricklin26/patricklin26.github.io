@@ -31,7 +31,8 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
 - Other essays  
   * [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)
 
-- Articles   
+- Articles  
+  * Dobzhansky–Muller incompatibilities in protein evolution [link](https://www.pnas.org/doi/full/10.1073/pnas.232565499)
   * The genetic theory of adaptation: a brief history. a 2005 review by Allen Orr. [link](https://www.nature.com/articles/nrg1523)
   * Zhu, Z., Younas, L. & Zhou, Q. Evolution and regulation of animal sex chromosomes. Nat Rev Genet (2024). [link](https://www.nature.com/articles/s41576-024-00757-3)  
 
