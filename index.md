@@ -30,6 +30,7 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
 
 - Other essays  
   * [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)
+  * Johnson, N. (2008) Hybrid incompatibility and speciation. Nature Education 1(1):20 [link](https://www.nature.com/scitable/topicpage/hybrid-incompatibility-and-speciation-820/)
 
 - Articles  
   * A.S. Kondrashov, S. Sunyaev, & F.A. Kondrashov, Dobzhansky–Muller incompatibilities in protein evolution, Proc. Natl. Acad. Sci. U.S.A. 99 (23) 14878-14883, (2002). [link](https://www.pnas.org/doi/full/10.1073/pnas.232565499)
