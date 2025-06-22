@@ -44,5 +44,5 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
 
 
 ## Note
-This page was last updated on June, 2025.
+This page was last updated in June, 2025.
 
