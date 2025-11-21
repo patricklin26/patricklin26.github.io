@@ -1,5 +1,7 @@
 ---
 layout: homepage
+title: "Pei Lin"
+description: "something from Pei Lin"
 ---
 
 ## About Me
