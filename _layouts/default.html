@@ -2,5 +2,23 @@
   
   <meta name="google-site-verification" content="ZFYI8_UJKkK0uNr0qyJTAv5q0-NlISTtciawNlS-Vxk" />
   {% include head.html %}
-  
+ 
+  {{ site.head }}  <!-- or similar, depending on your theme -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Pei Lin",
+    "jobTitle": "Postdoctoral Researcher",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "UC San Diego"
+    },
+    "url": "{{ site.url }}/"
+  }
+  </script>
+
+
+
 </head>
