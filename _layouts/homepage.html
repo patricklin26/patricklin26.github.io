@@ -3,6 +3,22 @@
   <head>
     <title>{{ site.title }} | {{site.affiliation}}</title>
 
+    {{ site.head }}  <!-- or similar, depending on your theme -->
+  
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Pei Lin",
+      "jobTitle": "Postdoctoral Researcher",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "UC San Diego"
+      },
+      "url": "{{ site.url }}/"
+    }
+    </script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
