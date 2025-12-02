@@ -12,6 +12,8 @@ I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun 
 
 I was born and raised in a Teochew family (data not shown). Here is a [Wiki](https://en.wikipedia.org/wiki/Teochew_people) about Teochew people (潮州人/潮汕人) and our culture.
 
+- **[UCSD profile](https://profiles.ucsd.edu/pei.lin)**
+
 ## Research Interests
 
 - **Medical genomics:**  
