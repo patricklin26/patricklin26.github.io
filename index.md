@@ -26,7 +26,6 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
 ## Reading
 
 
-
 - Blogs, assays, and more...
   * [Old travels, by Jerry Coyne](https://whyevolutionistrue.com/2020/05/04/old-travels/)  
   * [How I wangled myself into Harvard in one day, by Jerry Coyne](https://whyevolutionistrue.com/2020/05/08/more-autobiography-how-i-wangled-myself-into-harvard-in-one-day/)  
@@ -34,8 +33,8 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
   * [Oxford Protein Informatics Group](https://www.blopig.com/blog/)   
   * [Revisiting Reznick et al. 1990](https://reflectionsonpaperspast.wordpress.com/2017/12/31/revisiting-reznick-et-al-1990/)
   * Johnson, N. (2008) Hybrid incompatibility and speciation. Nature Education 1(1):20 [link](https://www.nature.com/scitable/topicpage/hybrid-incompatibility-and-speciation-820/)
-  * [C4E timeline](https://cmm.ucsd.edu/research/epigenomics/about/department-history.html)
 
+ 
 - Articles  
   * A.S. Kondrashov, S. Sunyaev, & F.A. Kondrashov, Dobzhansky–Muller incompatibilities in protein evolution, Proc. Natl. Acad. Sci. U.S.A. 99 (23) 14878-14883, (2002). [link](https://www.pnas.org/doi/full/10.1073/pnas.232565499)
   * Orr, H. The genetic theory of adaptation: a brief history. Nat Rev Genet 6, 119–127 (2005). [link](https://www.nature.com/articles/nrg1523)
