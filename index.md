@@ -6,7 +6,7 @@ description: something from Pei Lin
 
 ## About Me
 
-I have been a postdoctoral researcher in [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html)'s lab at the Department of Pediatrics, UC San Diego, since July 2024. Before joining the Sajti lab, I was a postdoctoral researcher at the Zhong Lab in the Department of Bioengineering, UCSD, from September 2021 to June 2024.
+I have been a postdoctoral researcher in [Dr. Eniko Sajti](https://pediatrics.ucsd.edu/research/faculty-labs/sajti-lab/index.html)'s lab at the [Department of Pediatrics, UC San Diego](https://pediatrics.ucsd.edu/), since July 2024. Before joining the Sajti lab, I was a postdoctoral researcher at the Zhong Lab in the [Department of Bioengineering, UCSD](https://be.ucsd.edu/), from September 2021 to June 2024.
 
 I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun Yat-Sen University under the supervision of [Dr. Chung-I Wu](https://x.com/OfficialSMBE/status/1938222778014175378) (July 2014 - June 2021). I received my bachelor’s degree in the School of Biomedical Engineering at Southern Medical University (Sep 2006 - June 2010). Both universities are located in Guangzhou.
 
