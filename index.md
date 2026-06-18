@@ -18,7 +18,8 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
 
 ## Research Interests
 
-- **Innate immunity**  
+- **Innate immunity**
+  * The genomic and molecular program governing the transition from monocyte to tissue-resident macrophages.  
 - **Evolutionary genomics:**    
   * the role of microRNA in gene expression evolution (part of my Ph.D. thesis).  
   * genetic incompatibiliy - for example, disease-associated amino acid residues in one species could be the wild-type in another species.  
