@@ -15,6 +15,7 @@ I received my Ph.D. in Biology with a Specialization in Bioinformatics from Sun 
 I was born and raised in a Teochew family (data not shown). Here is a [Wiki](https://en.wikipedia.org/wiki/Teochew_people) about Teochew people (潮州人/潮汕人) and our culture.
 
 - **[UCSD profile](https://profiles.ucsd.edu/pei.lin)**
+- **[Google Scholar](https://scholar.google.com/citations?hl=en&user=7oP6UXEAAAAJ&view_op=list_works&sortby=pubdate)**
 
 ## Research Interests
 
@@ -40,11 +41,6 @@ I was born and raised in a Teochew family (data not shown). Here is a [Wiki](htt
   * A.S. Kondrashov, S. Sunyaev, & F.A. Kondrashov, Dobzhansky–Muller incompatibilities in protein evolution, Proc. Natl. Acad. Sci. U.S.A. 99 (23) 14878-14883, (2002). [link](https://www.pnas.org/doi/full/10.1073/pnas.232565499)
   * Orr, H. The genetic theory of adaptation: a brief history. Nat Rev Genet 6, 119–127 (2005). [link](https://www.nature.com/articles/nrg1523)
   * Zhu, Z., Younas, L. & Zhou, Q. Evolution and regulation of animal sex chromosomes. Nat Rev Genet 26, 59–74 (2025). [link](https://www.nature.com/articles/s41576-024-00757-3)  
-
-
-## Publications
-
-[My Google Scholar page](https://scholar.google.com/citations?hl=en&user=7oP6UXEAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Note
